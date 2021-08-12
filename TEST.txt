@@ -1,4 +1,4 @@
 Text
 Line 2
 Line 3
-END OF TEST
+END OF TEST.
